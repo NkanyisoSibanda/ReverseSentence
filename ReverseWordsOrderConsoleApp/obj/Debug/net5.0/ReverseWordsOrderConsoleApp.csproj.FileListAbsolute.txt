@@ -1,0 +1,32 @@
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.exe
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.deps.json
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.runtimeconfig.json
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.runtimeconfig.dev.json
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.dll
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.pdb
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.csproj.AssemblyReference.cache
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.AssemblyInfo.cs
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.dll
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ref\ReverseWordsOrderConsoleApp.dll
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.pdb
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.genruntimeconfig.cache
+C:\Users\nkany\Desktop\BlueBin\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\refint\ReverseWordsOrderConsoleApp.dll
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.exe
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.deps.json
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.runtimeconfig.json
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.runtimeconfig.dev.json
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.dll
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ref\ReverseWordsOrderConsoleApp.dll
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\bin\Debug\net5.0\ReverseWordsOrderConsoleApp.pdb
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.csproj.AssemblyReference.cache
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.AssemblyInfoInputs.cache
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.AssemblyInfo.cs
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.csproj.CoreCompileInputs.cache
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.dll
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ref\ReverseWordsOrderConsoleApp.dll
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.pdb
+C:\projects\.net core\LightStone\ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp\obj\Debug\net5.0\ReverseWordsOrderConsoleApp.genruntimeconfig.cache

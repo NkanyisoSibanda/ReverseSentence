@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsOrderConsoleApp", "ReverseWordsOrderConsoleApp\ReverseWordsOrderConsoleApp.csproj", "{1FBA0413-153E-4E6D-99F9-B6A8389A5691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsOrderConsoleAppTests", "ReverseWordsOrderConsoleAppTests\ReverseWordsOrderConsoleAppTests.csproj", "{F1FF74B9-50B6-4364-A1A1-38BFC0FB0E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBA0413-153E-4E6D-99F9-B6A8389A5691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBA0413-153E-4E6D-99F9-B6A8389A5691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBA0413-153E-4E6D-99F9-B6A8389A5691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBA0413-153E-4E6D-99F9-B6A8389A5691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FF74B9-50B6-4364-A1A1-38BFC0FB0E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FF74B9-50B6-4364-A1A1-38BFC0FB0E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FF74B9-50B6-4364-A1A1-38BFC0FB0E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FF74B9-50B6-4364-A1A1-38BFC0FB0E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {507874FD-6ED1-4276-888A-B7A4C635A62B}
+	EndGlobalSection
+EndGlobal
